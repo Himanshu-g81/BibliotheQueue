@@ -1,4 +1,4 @@
-# myBookstore
+# BibliotheQueue
 A book shopping web application using java spring(boot) framework.
 
 To use the application:<br/>
