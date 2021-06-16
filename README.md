@@ -17,9 +17,10 @@ To use the application:<br/>
     <li>For database:</li>
       <ul>
         <li>username: root</li>
-        <li>password: </li>
-        <li>//Password is blank, password.length() = 0</li>
+        <li>password: </li>    
       </ul>
+      (Password is blank, i.e password.length() = 0)
+      <br/>
       <br/>
       <strong>If you want to change these, change them in MyBookstore.src.main.resources.application.properties file</strong> 
     </ul>
